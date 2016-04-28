@@ -1,7 +1,8 @@
-# git-introduction
+﻿# git-introduction
 
 ## Member
 - 仲松 聡
+- 新山 大翔
 - 若宮　奈々
 - 西田樹
 - 塚田 浩二
